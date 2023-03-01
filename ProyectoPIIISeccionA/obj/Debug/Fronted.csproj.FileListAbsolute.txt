@@ -1,0 +1,145 @@
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Clientes.resources
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Pedidos.resources
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Productos.resources
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Lento.resources
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Rapido.resources
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csprojAssemblyReference.cache
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Clientes.resources
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Pedidos.resources
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Productos.resources
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Lento.resources
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Rapido.resources
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.GenerateResource.cache
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CoreCompileInputs.cache
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\Backend.dll
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\Backend.pdb
+C:\Users\josem\Descargas\ProyectoPIIISeccionA\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CopyComplete
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\Backend.dll
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\Backend.pdb
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csprojAssemblyReference.cache
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Clientes.resources
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Pedidos.resources
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Productos.resources
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Lento.resources
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Rapido.resources
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.GenerateResource.cache
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CoreCompileInputs.cache
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CopyComplete
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+C:\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\Backend.dll
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\Backend.pdb
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csprojAssemblyReference.cache
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Clientes.resources
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Pedidos.resources
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Productos.resources
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Lento.resources
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Rapido.resources
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.GenerateResource.cache
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CoreCompileInputs.cache
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CopyComplete
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+D:\Escritorio\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\bin\Debug\Backend.dll
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\bin\Debug\Backend.pdb
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\Fronted.csprojAssemblyReference.cache
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Clientes.resources
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Pedidos.resources
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Productos.resources
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Lento.resources
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Rapido.resources
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.GenerateResource.cache
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CoreCompileInputs.cache
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CopyComplete
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\josem\Descargas\Nueva carpeta\ProyectoPIIISeccionARicardo\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.FrmMostrarFactura.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\Backend.dll
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\Backend.pdb
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\Fronted.csprojAssemblyReference.cache
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Clientes.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.FrmMostrarFactura.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Pedidos.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Productos.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Lento.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Rapido.resources
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.GenerateResource.cache
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CoreCompileInputs.cache
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CopyComplete
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+C:\Users\Santos\Music\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\Backend.dll
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\bin\Debug\Backend.pdb
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\Fronted.csprojAssemblyReference.cache
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Clientes.resources
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.FrmMostrarFactura.resources
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Pedidos.resources
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Productos.resources
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Lento.resources
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Rapido.resources
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.GenerateResource.cache
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CoreCompileInputs.cache
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CopyComplete
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+D:\Escritorio\ProyectoPIIISeccionA2\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\bin\Debug\Backend.dll
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\bin\Debug\Backend.pdb
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csprojAssemblyReference.cache
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Clientes.resources
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.FrmMostrarFactura.resources
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Pedidos.resources
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Forms.Productos.resources
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Lento.resources
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Top10Rapido.resources
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.GenerateResource.cache
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CoreCompileInputs.cache
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\Fronted.csproj.CopyComplete
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+C:\Users\josem\Descargas\Mini-ProyectoPrograIIISeccionA\Mini-ProyectoPrograIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb

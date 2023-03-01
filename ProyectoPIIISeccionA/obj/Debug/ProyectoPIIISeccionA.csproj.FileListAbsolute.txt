@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe.config
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.exe
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\bin\Debug\ProyectoPIIISeccionA.pdb
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.MenuPrincipal.resources
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.exe
+C:\Users\USUARIO\Desktop\ProyectoPIIISeccionA\ProyectoPIIISeccionA\obj\Debug\ProyectoPIIISeccionA.pdb
